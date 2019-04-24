@@ -8,11 +8,11 @@ randomly selected from a users' existing playlists.
 1. Register app at https://developer.spotify.com/my-applications/
 2. Edit your `~/.bashrc` to export the following values:
 
-``bash
+```bash
 export SPOTIPY_CLIENT_ID='your-spotify-client-id'  
 export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'  
 export SPOTIPY_USERNAME='your-spotify-username'  
-``
+```
 
 ## Installation
 
