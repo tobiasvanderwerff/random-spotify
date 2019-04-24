@@ -16,10 +16,10 @@ export SPOTIPY_USERNAME='your-spotify-username'
 
 ## Installation
 
-Install required packages:
+Install latest version of Spotipy:
 
 ``
-pip install -r requirements.txt
+pip install git+https://github.com/plamere/spotipy.git --upgrade --user
 ``
 
 Run the program: 
