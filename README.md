@@ -11,16 +11,16 @@ randomly selected from a users' existing playlists.
 export SPOTIPY_CLIENT_ID='your-spotify-client-id'
 export SPOTIPY_CLIENT_SECRET='your-spotify-client-secret'
 export SPOTIPY_USERNAME='your-spotify-username'
-```
+``
 
 ## Installation
 
 Install required packages:
-```
+``
 pip install -r requirements.txt
-```
+``
 
 Run the program: 
-```
+``
 python3 main.py
-```
+``
